@@ -1,12 +1,24 @@
 ![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
-<h1 align="center"><img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="40"/> Hi, I'm Amdadul HQ</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
+</h1>
 
 ### ✨&nbsp; About Me
 
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
 I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
 
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,mui,react,nodejs,mongodb,express,nextjs,firebase" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vite,xd,ai,ae" /><br>
+</div>
+
+<br/>
+<hr/>
 
 ## :chart_with_upwards_trend: Current Stats
 
