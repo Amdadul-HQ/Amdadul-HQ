@@ -38,13 +38,11 @@ I am a dedicated frontend developer with a diploma in Electrical Engineering fro
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-phi-one-22.vercel.app/](https://portfolio-phi-one-22.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-phi-one-22.vercel.app/)
 
 - 📫 How to reach me **rimonamdadul301@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ee_UDd7bBfWaU5V4Dw2wMLhPhs_S8ZRE/view?usp=sharing](https://drive.google.com/file/d/1ee_UDd7bBfWaU5V4Dw2wMLhPhs_S8ZRE/view?usp=sharing)
-
-<h3 align="left">Languages and Tools:</h3>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ee_UDd7bBfWaU5V4Dw2wMLhPhs_S8ZRE/view?usp=sharing)
 
 
 ## :mailbox: Reach me out
