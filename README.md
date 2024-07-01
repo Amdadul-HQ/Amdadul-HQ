@@ -47,6 +47,6 @@ I am a dedicated frontend developer with a diploma in Electrical Engineering fro
 
 ## :mailbox: Reach me out
 
-<p align="center"><a href="https://twitter.com/hoque_amdaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoque_amdaul" height="30" width="40" /></a>
+<p align="left"><a href="https://twitter.com/hoque_amdaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoque_amdaul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amdadul haque bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amdadul haque bhuiyan" height="30" width="40" /></a>
 <a href="https://fb.com/amdadu rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amdadu rimon" height="30" width="40" /></a></p>
