@@ -1,7 +1,12 @@
 ![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Amdadul HQ</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h1 align="center"><img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="40"/> Hi, I'm Amdadul HQ</h1>
+
+### ✨&nbsp; About Me
+
+<h4 align="left">A passionate Web Developer from Bangladesh</h4>
+I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
+
 
 ## :chart_with_upwards_trend: Current Stats
 
