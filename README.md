@@ -1,4 +1,4 @@
-![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/2.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
