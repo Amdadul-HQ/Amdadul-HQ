@@ -1,7 +1,7 @@
 ![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/2.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
 </h1>
 
 ### ✨&nbsp; About Me
