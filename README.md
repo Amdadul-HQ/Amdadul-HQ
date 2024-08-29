@@ -9,7 +9,6 @@
 <br/>
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
 I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
-
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -18,11 +17,14 @@ I am a dedicated frontend developer with a diploma in Electrical Engineering fro
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vite,xd,ai,ae" /><br>
 </div>
 
+
+
+
+
+
+
 <br/>
 <hr/>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## :chart_with_upwards_trend: Current Stats
