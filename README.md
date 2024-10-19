@@ -5,7 +5,7 @@
 </h1>
 
 ### ✨&nbsp; About Me
-<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
 I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
