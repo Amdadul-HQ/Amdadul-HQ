@@ -1,10 +1,10 @@
-:![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/2.png)
+![logo](https://github.com/Amdadul-HQ/Amdadul-HQ/blob/main/2.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
 </h1>
 
-### ✨&nbsp; About 
+### ✨&nbsp; About Me
 <img align="right" alt="coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
