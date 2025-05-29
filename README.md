@@ -9,6 +9,14 @@
 <br/>
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
 I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
+
+<h2 align="left">🧑‍💻 Experience</h2> 
+- 💼 **Frontend Developer @ Monster Studio** (Aug 2024 - May 2025)  
+  - Started as a paid intern, promoted to full-time developer after 5 months.  
+  - Contributed to 30+ websites in a large-scale monorepo architecture.  
+  - Built responsive and optimized UIs using **Remix, React, and Tailwind CSS**.  
+  - Worked on both frontend and backend, gaining full-stack experience.
+<br/>
 <h2 align="left">⚒️ Tech Stack</h2>
 <br/>
 <h3 align="left">🖥️ Frontend</h3> 
