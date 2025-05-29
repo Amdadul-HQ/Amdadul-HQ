@@ -5,17 +5,19 @@
 </h1>
 
 ### ✨&nbsp; About 
-<img align="right" alt="coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" alt="coding" width="350" hight="500" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
-<h4 align="left">A passionate Web Developer from Bangladesh</h4>
-I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
+<p align="left">I am a dedicated Frontend Developer with 10+ months of professional experience at Monster Studio, where I contributed to over 30 live websites within a large-scale monorepo using Remix. I specialize in building user-centric web applications with modern technologies like React, Next.js, and Tailwind CSS. I also have hands-on experience with backend technologies such as Express.js, Prisma, and PostgreSQL, enabling me to contribute effectively across the full stack.</p>
+
+<p align="left">My journey began with a Diploma in Electrical Engineering from Feni Polytechnic Institute, but my passion for technology led me to pursue web development relentlessly. I have built scalable full-stack applications. I am constantly learning and growing, with a strong focus on performance, clean code, and collaborative development.</p>
 
 <h2 align="left">🧑‍💻 Experience</h2> 
+
 - 💼 **Frontend Developer @ Monster Studio** (Aug 2024 - May 2025)  
-  - Started as a paid intern, promoted to full-time developer after 5 months.  
-  - Contributed to 30+ websites in a large-scale monorepo architecture.  
-  - Built responsive and optimized UIs using **Remix, React, and Tailwind CSS**.  
-  - Worked on both frontend and backend, gaining full-stack experience.
+- Started as a paid intern, promoted to full-time developer after 5 months.  
+- Contributed to 30+ websites in a large-scale monorepo architecture.  
+- Built responsive and optimized UIs using **Remix, React, and Tailwind CSS**.  
+- Worked on both frontend and backend, gaining full-stack experience.
 <br/>
 <h2 align="left">⚒️ Tech Stack</h2>
 <br/>
@@ -36,7 +38,7 @@ I am a dedicated frontend developer with a diploma in Electrical Engineering fro
 <br/>
 <hr/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## :chart_with_upwards_trend: Current Stats
+<h3 align="left">## :chart_with_upwards_trend: Current Stats</h3>
 <br />
 <p align="center"><img width="60%" align="center" src="https://nirzak-streak-stats.vercel.app/?user=Amdadul-HQ&theme=radical&hide_border=true&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="amdadul-hq" /></p>
 <p align="center">
