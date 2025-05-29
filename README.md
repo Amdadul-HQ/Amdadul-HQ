@@ -9,12 +9,21 @@
 <br/>
 <h4 align="left">A passionate Web Developer from Bangladesh</h4>
 I am a dedicated frontend developer with a diploma in Electrical Engineering from Feni Polytechnic Institute. Despite my non-software academic background, my lifelong passion for technology has driven me to excel in web development. I have developed proficiency in React, Node.js, MongoDB, Express.js, HTML, CSS, and various frontend frameworks. My experience includes creating visually appealing and user-friendly websites and applications.
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Tech Stack</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,mui,react,nodejs,mongodb,express,nextjs,firebase" />
-  <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,vite,xd,ai,ae" /><br>
+<h3 align="left">🖥️ Frontend</h3> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,remix,redux,tailwind" />
+</div>
+<br/>
+<h3 align="left">🛠️ Backend</h3> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,firebase,jwt" />
+</div>
+<br/>
+<h3 align="left">🧰 Tools & Platforms</h3> 
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma,xd,ai,ae" />
 </div>
 <br/>
 <hr/>
