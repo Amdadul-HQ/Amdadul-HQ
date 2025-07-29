@@ -47,15 +47,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdadul-hq&label=Profile%20views&color=0e75b6&style=flat" alt="amdadul-hq" /> </p>
 
-- 🔭 I’m currently working on [YT Shops](https://ytshops.co)
+- 🔭 I’m currently working at [Softvence](https://www.facebook.com/softvenceagency/)
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-phi-one-22.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://amdadulhq.vercel.app)
 
 - 📫 How to reach me **rimonamdadul301@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ee_UDd7bBfWaU5V4Dw2wMLhPhs_S8ZRE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11s-a26rikQlVfEZs64oLOAEmC2yyxdc6/view)
 
 
 ## :mailbox: Reach me out
