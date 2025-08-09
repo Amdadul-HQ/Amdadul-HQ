@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
 </h1>
 
-### ✨&nbsp; About Me
+### ✨&nbsp; About Me.
 <img align="right" alt="coding" width="350" hight="500" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
 <p align="left">I am a dedicated Frontend Developer with 10+ months of professional experience at Monster Studio, where I contributed to over 30 live websites within a large-scale monorepo using Remix. I specialize in building user-centric web applications with modern technologies like React, Next.js, and Tailwind CSS. I also have hands-on experience with backend technologies such as Express.js, Prisma, and PostgreSQL, enabling me to contribute effectively across the full stack.</p>
