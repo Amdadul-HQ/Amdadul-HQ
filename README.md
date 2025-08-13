@@ -40,7 +40,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">## :chart_with_upwards_trend: Current Stats</h3>
 <br />
-<p align="center"><img width="60%" align="center" src="https://nirzak-streak-stats.vercel.app/?user=Amdadul-HQ&theme=radical&hide_border=true&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="amdadul-hq" /></p>
+<p align="center"><img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdadul-hq&theme=radical&hide_border=true&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="amdadul-hq" /></p>
 <p align="center">
 <br />
 
