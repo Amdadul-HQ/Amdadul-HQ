@@ -7,17 +7,28 @@
 ### ✨&nbsp; About Me
 <img align="right" alt="coding" width="350" hight="500" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
-<p align="left">I am a dedicated Frontend Developer with 10+ months of professional experience at Monster Studio, where I contributed to over 30 live websites within a large-scale monorepo using Remix. I specialize in building user-centric web applications with modern technologies like React, Next.js, and Tailwind CSS. I also have hands-on experience with backend technologies such as Express.js, Prisma, and PostgreSQL, enabling me to contribute effectively across the full stack.</p>
+<p align="left">I am a passionate Full Stack Developer with strong experience in both frontend and backend development. I have worked as a Frontend Developer at Monster Studio, a Back End Team Lead at Softvence, and currently, I am a Full Stack Developer at Digital Pylot. Throughout my journey, I have contributed to building scalable, user-centric, and performance-driven applications using modern technologies like **React, Next.js, Tailwind CSS, Express.js, Prisma, and PostgreSQL**.</p>
 
-<p align="left">My journey began with a Diploma in Electrical Engineering from Feni Polytechnic Institute, but my passion for technology led me to pursue web development relentlessly. I have built scalable full-stack applications. I am constantly learning and growing, with a strong focus on performance, clean code, and collaborative development.</p>
+<p align="left">I specialize in designing and developing full-stack solutions, managing complex projects, and leading teams to deliver high-quality software. My journey began with a Diploma in Electrical Engineering from Feni Polytechnic Institute, but my passion for technology led me to pursue web development relentlessly. Over time, I have worked on diverse projects including ERP systems, admin dashboards, CMS solutions, and real-time communication platforms.</p>
 
 <h2 align="left">🧑‍💻 Experience</h2> 
 
-- 💼 **Frontend Developer @ Monster Studio** (Aug 2024 - May 2025)  
-- Started as a paid intern, promoted to full-time developer after 5 months.  
-- Contributed to 30+ websites in a large-scale monorepo architecture.  
-- Built responsive and optimized UIs using **Remix, React, and Tailwind CSS**.  
-- Worked on both frontend and backend, gaining full-stack experience.
+💼 **Full Stack Developer @ Digital Pylot** (Aug 2025 – Present)  
+- Contributing to full-stack applications with modern web technologies.  
+- Building scalable, end-to-end solutions for client and in-house projects.  
+
+💼 **Back End Team Lead @ Softvence** (Jul 2025 – Aug 2025)  
+- Led a team of 20 developers, managing and delivering 7–8 service-based projects.  
+- Oversaw backend hosting on VPS servers with root-level access.  
+- Built ERP systems, real-time chat & notification services, and admin dashboards.  
+- Provided mentorship and implemented strategic architectural decisions.  
+
+💼 **Frontend Developer @ Monster Studio** (Aug 2024 – Apr 2025)  
+- Contributed to 20+ websites in a large-scale monorepo.  
+- Built responsive, SEO-optimized UIs with **Remix, React, and Tailwind CSS**.  
+- Developed a custom CMS and integrated YouTube API for creator tools.  
+- Created high-performance corporate websites with WordPress + React integration.  
+
 <br/>
 <h2 align="left">⚒️ Tech Stack</h2>
 <br/>
