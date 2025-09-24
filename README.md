@@ -11,7 +11,7 @@
 
 <p align="left">I specialize in designing and developing full-stack solutions, managing complex projects, and leading teams to deliver high-quality software. My journey began with a Diploma in Electrical Engineering from Feni Polytechnic Institute, but my passion for technology led me to pursue web development relentlessly. Over time, I have worked on diverse projects including ERP systems, admin dashboards, CMS solutions, and real-time communication platforms.</p>
 
-<h2 align="left">🧑‍💻 Experience</h2> 
+<h2 align="left">🧑‍💻 Experience </h2> 
 
 💼 **Full Stack Developer @ Digital Pylot** (Aug 2025 – Present)  
 - Contributing to full-stack applications with modern web technologies.  
