@@ -58,7 +58,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdadul-hq&label=Profile%20views&color=0e75b6&style=flat" alt="amdadul-hq" /> </p>
 
-- 🔭 I’m currently working at [Digital Pylot](https://digitalpylot.io)
+- 🔭 I’m currently working at [Digital Pylot](https://digitalpylot.io/team/amdadul-haque-bhuiyan)
 
 - 🌱 I’m currently learning **DevOps**
 
