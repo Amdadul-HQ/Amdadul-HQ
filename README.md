@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amdadul+Haque!;" />
 </h1>
 
-### ✨&nbsp; About Me
+### ✨&nbsp; About Me.
 <img align="right" alt="coding" width="350" hight="500" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <br/>
 <p align="left">I am a passionate Full Stack Developer with strong experience in both frontend and backend development. I have worked as a Frontend Developer at Monster Studio, a Back End Team Lead at Softvence, and currently, I am a Full Stack Developer at Digital Pylot. Throughout my journey, I have contributed to building scalable, user-centric, and performance-driven applications using modern technologies like **React, Next.js, Tailwind CSS, Express.js, Prisma, and PostgreSQL**.</p>
