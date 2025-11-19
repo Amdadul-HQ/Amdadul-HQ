@@ -13,17 +13,17 @@
 
 <h2 align="left">🧑‍💻 Experience </h2> 
 
-💼 **Full Stack Developer @ Digital Pylot** (Aug 2025 – Present)  
+💼 **Full Stack Developer @ Digital Pylot** (August 2025 – Present)  
 - Contributing to full-stack applications with modern web technologies.  
 - Building scalable, end-to-end solutions for client and in-house projects.  
 
-💼 **Back End Team Lead @ Softvence** (Jul 2025 – Aug 2025)  
+💼 **Back End Team Lead @ Softvence** (June 2025 – August 2025)   
 - Led a team of 20 developers, managing and delivering 7–8 service-based projects.  
 - Oversaw backend hosting on VPS servers with root-level access.  
 - Built ERP systems, real-time chat & notification services, and admin dashboards.  
 - Provided mentorship and implemented strategic architectural decisions.  
 
-💼 **Frontend Developer @ Monster Studio** (Aug 2024 – Apr 2025)  
+💼 **Frontend Developer @ Monster Studio** (March 2024 – May 2025)  
 - Contributed to 20+ websites in a large-scale monorepo.  
 - Built responsive, SEO-optimized UIs with **Remix, React, and Tailwind CSS**.  
 - Developed a custom CMS and integrated YouTube API for creator tools.  
